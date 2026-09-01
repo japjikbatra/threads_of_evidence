@@ -1,6 +1,5 @@
 # Threads of Evidence: Fabric Type Classification
 
-**CS 171 Term Project**  
 **San José State University**  
 **Authors:** Japji Batra, Bushra Naveed
 
