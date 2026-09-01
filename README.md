@@ -26,4 +26,4 @@ pandas>=1.5.0
 numpy>=1.23.0
 matplotlib>=3.6.0
 Pillow>=9.0.0
-kagglehub>=0.2.0# threads_of_evidence
+kagglehub>=0.2.0
