@@ -41,6 +41,7 @@ kagglehub>=0.2.0
 
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/4ebafa12-767f-4be3-8f84-7280fb50cd0a" />
 
+<img width="464" height="162" alt="image" src="https://github.com/user-attachments/assets/2fcf5b76-0bbe-4ade-983e-91f7cbe20505" />
 
 
 
