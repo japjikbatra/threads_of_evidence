@@ -11,6 +11,8 @@
 
 We benchmark and evaluate several shallow and deep learning models to accurately classify fabric types across seven target categories: **Cotton, Polyester, Denim, Wool, Nylon, Silk, and Fleece**.
 
+<img width="1592" height="1110" alt="image" src="https://github.com/user-attachments/assets/7b72233f-c6f7-41cc-b5a0-5dc477a8e291" />
+
 ---
 
 ## Requirements & Dependencies
@@ -26,10 +28,7 @@ pandas>=1.5.0
 numpy>=1.23.0
 matplotlib>=3.6.0
 Pillow>=9.0.0
-kagglehub>=0.2.0```
-
-<img width="1592" height="1110" alt="image" src="https://github.com/user-attachments/assets/7b72233f-c6f7-41cc-b5a0-5dc477a8e291" />
-
+kagglehub>=0.2.0
 
 
 
