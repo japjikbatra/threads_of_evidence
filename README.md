@@ -6,14 +6,14 @@
 
 ---
 
-## 📋 Overview
+## Overview
 *Threads of Evidence* is an end-to-end machine learning and computer vision pipeline designed to classify textile fabric types from high-resolution images[cite: 1, 3]. Using the **iBUG Fabrics Dataset** (captured under four distinct illumination conditions using a photometric stereo sensor)[cite: 1, 3], the project extracts 2,048-dimensional visual feature representations via a pre-trained **ResNet50** neural architecture. 
 
 We benchmark and evaluate several shallow and deep learning models to accurately classify fabric types across seven target categories: **Cotton, Polyester, Denim, Wool, Nylon, Silk, and Fleece**.
 
 ---
 
-## 🛠️ Requirements & Dependencies
+## Requirements & Dependencies
 
 The project is implemented in Python (v3.10+) utilizing PyTorch, Scikit-Learn, and Torchvision. 
 
